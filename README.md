@@ -1,2 +1,1 @@
-# TS2
-TS2
+# TowerSiege-1
